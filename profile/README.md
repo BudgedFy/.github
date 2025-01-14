@@ -35,6 +35,13 @@ Este proyecto consiste en el desarrollo de un chatbot impulsado por IA que permi
 
 ---
 
+## Modelo de Negocio
+El modelo de negocio se basa en una estructura de suscripciones que ofrece diferentes planes con acceso a tokens, permitiendo personalizar el nivel de uso del chatbot.
+
+Para más detalles, consulta el documento [Modelo de Negocio](https://app.diagrams.net/#G15hv0rz_b1wyATaJveombVaazVBiatLXy#%7B%22pageId%22%3A%225C6So2C0szNerE-Ym6c3%22%7D).
+
+---
+
 ## Estructura de Precios
 
 | Plan        | Precio | Tokens Incluidos |
